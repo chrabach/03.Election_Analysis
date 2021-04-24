@@ -1,5 +1,5 @@
 # Election_Analysis
-## prject Overview
+## Project Overview
 A Colorado Bioard of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
 
 1. Calcualte the total number of votes cast.
