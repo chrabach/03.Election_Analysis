@@ -1,30 +1,29 @@
 # Election_Analysis
 ## Project Overview
-A Colorado Bioard of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
 
-1. Calcualte the total number of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculate the total number of votes each candidate received.
-4. Calculate the percentage of votes each candidate won.
-5. Determine the winner of the election based on popular vote.
+The purpose of this analysis is to assist the Colorado Board of Elections conduct an audit on the tabulated results of a US Congressional election.  Specifically, the audit includes answers to the questions of how many votes were cast, the total votes cast for each candidate, each candidate’s % of vote total, the total votes cast by county, and which candidate won the election.
 
 ## Resources
 - Data Source: election_results.csv
 - Software : Python 3.8.9, Visual Studio Code, 1.55.2
 
-## Summary
-The Analysis of the election show that:
-- There were 369,711 votes cast in the election.
-- The Candidates were:
-   - Charles Casper Stockham
-   - Diana DeGetter
-   - Raymon Anthony Doane
-- The Candidate results were:
-   - Charles Casper Stockham received 23.0% of the vote and 85,213 votes.
-   - Diana DeGetter received 73.8% of the vote and 272,892 votes.
-   - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
-- The winner of the election was:
-   - Candidate Diana DeGetter who received 73.8% of the vote and 272,892 votes
+## Summary of results
 
-## Challenge Overview
-## Challenge Summary
+![Election Results](other_resources/Election_Results.png)
+[Election Results](other_resources/Election_Results.png?raw=true “Election Results”)
+
+- Total number of votes cast: 369,711
+- Summary of County voting results:
+      -Jefferson: 10.5% (38,855 Votes)
+      -Denver: 82.8% (306,055 Votes)
+      -Arapahoe: 6.7% (24,801 Votes)
+- County with the greatest number of votes in the district: Denver (82.8% of Votes cast)
+- Candidate Results Breakdown:
+          Charles Casper Stockham: 23.0% (85,213 Votes)
+          Diana DeGette: 73.8% (272,892 Votes)
+          Raymon Anthony Doane: 3.1% (11,606 Votes)
+- Winner of the election:
+          Diana DeGette with 272,892 votes, or 73.8% 
+
+## Audit summary
+Given the tabulated data is carried in the same way, this code is portable to any US Congressional election.  For elections in which the data is not carried exactly this way, certain minor modifications will need to be made.  For instance, elections at the county level itself likely have municipalities instead of counties as the base level of vote aggregation.  Municipal elections also will have a different base level.  In terms of broader reach, this script could be used for senatorial and gubernatorial races with little to no modification
