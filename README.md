@@ -14,13 +14,13 @@ The purpose of this analysis is to assist the Colorado Board of Elections conduc
 
 - Total number of votes cast: 369,711
 - Summary of County voting results:
-      -Jefferson: 10.5% (38,855 Votes), 
-      -Denver: 82.8% (306,055 Votes), 
-      -Arapahoe: 6.7% (24,801 Votes)
+      Jefferson: 10.5% (38,855 Votes), 
+      Denver: 82.8% (306,055 Votes), 
+      Arapahoe: 6.7% (24,801 Votes)
 - County with the greatest number of votes in the district: Denver (82.8% of Votes cast)
 - Candidate Results Breakdown:
-          Charles Casper Stockham: 23.0% (85,213 Votes)
-          Diana DeGette: 73.8% (272,892 Votes)
+          Charles Casper Stockham: 23.0% (85,213 Votes), 
+          Diana DeGette: 73.8% (272,892 Votes), 
           Raymon Anthony Doane: 3.1% (11,606 Votes)
 - Winner of the election:
           Diana DeGette with 272,892 votes, or 73.8% 
