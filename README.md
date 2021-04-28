@@ -10,7 +10,7 @@ The purpose of this analysis is to assist the Colorado Board of Elections conduc
 ## Summary of results
 
 ![Election Results](other_resources/Election_Results.png)
-[Election Results](other_resources/Election_Results.png?raw=true “Election Results”)
+[Election Results](other_resources/Election_Results.png?raw=true "Election Results")
 
 - Total number of votes cast: 369,711
 - Summary of County voting results:
