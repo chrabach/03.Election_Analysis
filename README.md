@@ -26,10 +26,10 @@ The purpose of this analysis is to assist the Colorado Board of Elections conduc
           Diana DeGette with 272,892 votes, or 73.8% 
 
 ## Audit summary
-Given the tabulated data is carried in the same way, this code is portable to any US Congressional election.  For elections in which the data is not carried exactly this way, certain minor modifications will need to be made.  For instance, elections at the county level itself likely have municipalities instead of counties as the base level of vote aggregation.  Municipal elections also will have a different base level.  In terms of broader reach, this script could be used for senatorial and gubernatorial races with little to no modification.
+Given the tabulated data is carried in the same way, this code is portable to any US Congressional election.  For elections in which the data is not carried exactly this way, certain minor modifications will need to be made.  For instance, elections at the county level itself likely have municipalities instead of counties as the base level of vote aggregation.  The code would need to be modified to accomodate this.  Municipal elections also will have a different base level.  In terms of broader reach, this script could be used for senatorial and gubernatorial races with little to no modification, as counties are likely the base level of aggregation already.
 
 
 ![County Analysis](other_resources/county_analysis.png)
 [County Analysis](other_resources/county_analysis.png?raw=true "County Analysis")
 
-Another modification that could be made would be to add a vote breakdown by district, to include the breakdown of votes by candidate by district.  With this, an attribution analysis can be done to understand each district's contribution to the overall result.
+Another modification that could be made (shown above) is to add a vote breakdown by district, to include the breakdown of votes by candidate by district.  With this, an attribution analysis can be done to understand each district's contribution to the overall result.
