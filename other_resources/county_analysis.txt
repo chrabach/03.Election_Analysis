@@ -1,0 +1,14 @@
+
+County Vote Analysis:
+County: Jefferson             10.5%
+Charles Casper Stockham                   5.3%
+Diana DeGette                             4.9%
+Raymon Anthony Doane                      0.3%
+County: Denver                82.8%
+Charles Casper Stockham                  15.5%
+Diana DeGette                            64.7%
+Raymon Anthony Doane                      2.6%
+County: Arapahoe              6.7%
+Charles Casper Stockham                   2.2%
+Diana DeGette                             4.2%
+Raymon Anthony Doane                      0.2%

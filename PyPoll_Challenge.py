@@ -44,7 +44,7 @@ with open(file_to_load) as election_data:
 
     # For each row in the CSV file.
     for row in reader:
-
+        
         # Add to the total vote count
         total_votes = total_votes + 1
         # Get the candidate name from each row.
