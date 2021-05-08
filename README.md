@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 ## Project Overview
 
 The purpose of this analysis is to assist the Colorado Board of Elections conduct an audit on the tabulated results of a US Congressional election.  Specifically, the audit includes answers to the questions of how many votes were cast, the total votes cast for each candidate, each candidate’s % of vote total, the total votes cast by county, and which candidate won the election.
